@@ -1,2 +1,4 @@
-My first readme
-everything is up to date
+git status
+git add .
+git commit -m "message"
+git push
