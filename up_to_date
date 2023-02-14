@@ -1,4 +1,4 @@
 git status
 git add .
-git commit -m "message"
+git commit -m "How to be up to date in gi"
 git push
